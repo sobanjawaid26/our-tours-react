@@ -23,3 +23,5 @@ const Tour = ({id, image, info, name, price, removeTour}) => {
         </article>
     )
 }
+
+export default Tour;
